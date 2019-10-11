@@ -1,0 +1,21 @@
+{
+  "name": "ws-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@architect/architect": "^5.9.18",
+    "@architect/data": "^3.0.5",
+    "@architect/functions": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-cloudreach": "^1.0.2"
+  }
+}
